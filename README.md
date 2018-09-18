@@ -1,6 +1,9 @@
-# TicketToRideFrontend
+# Ticket To Ride - Frontend (The Dream Team)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.11-webpack.8.
+
+## Setup
+Clone the repo, then run `yarn` from inside the repo folder to install dependencies. If you don't have yarn installed, you can find installation instructions [here](https://yarnpkg.com/lang/en/docs/install/).
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
